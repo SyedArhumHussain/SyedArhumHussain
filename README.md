@@ -1,7 +1,13 @@
 ## 👋 Hi there, I'm Arhum Hussain
-🎈 Machine Learning Engineer focused on building high performance, intelligent systems.        
-📞 Current Focus: Developing a high throughput Answering Machine Detection (AMD) system optimized to handle 1000+ concurrent calls per second.   
-🎙️ What I'm building: Working extensively on advanced Voice Agents, orchestrating seamless pipelines across WebRTC, VAD Automated Speech Recognition (ASR), LLMs, STT and TTS systems.    
-🛠️ Core Expertise: Specializing in Python and Golang to architect and scale low latency, high performance backend systems.  
-🌐 Portfolio: arhumhussainportfolio.com.  
-✨ Connect with me: Let's talk AI engineering and system design on X @ArhumHussain12.
+
+🎈 **Machine Learning Engineer** focused on building, scaling, and deploying **AI Agents & RAG systems** for intelligent applications.
+
+🛠️ **Core Expertise** → Python & Golang • High-Performance • Low-Latency • Scalable Systems
+
+🚀 **Currently Building**   
+🎙️ **Voice AI** → LangChain • LangGraph • WebRTC • VAD • ASR • STT • LLMs • TTS   
+🧠 **Production RAG** → Hybrid Retrieval • GraphRAG • Grounded Responses • Low-Latency Systems   
+📞 **AI Telephony** → Real-Time Voice Agents + AMD • **1,000+ calls/sec**
+
+🌐 **Portfolio:** arhumhussainportfolio.com    
+✨ **Let's Connect**: Always open to conversations about AI Engineering, Voice AI & System Design → **X: @ArhumHussain12**
